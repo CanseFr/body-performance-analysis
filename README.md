@@ -40,8 +40,4 @@ Ce projet est une **étude exploratoire approfondie** sur un jeu de données de 
 - Visualisation interactive avec Streamlit ou Dash
 - Création d’un système de recommandation basé sur les caractéristiques physiques
 
-## 📌 Auteur
-
-Projet réalisé dans le cadre de la formation **Machine Learning - Metz Numeric School**  
-Formateur : *Florian Aubry*
 # body-performance-analysis
